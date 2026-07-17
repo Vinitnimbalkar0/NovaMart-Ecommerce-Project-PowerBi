@@ -10,7 +10,8 @@ The ultimate goal of this project was to transform raw transactional data into a
 ## 📸 Dashboard Gallery
 
 # Executive & Revenue
-<img width="1344" height="750" alt="Sales" src="https://github.com/user-attachments/assets/f0597c57-0075-4d6f-9d81-73099efe82f9" />
+<img width="1308" height="737" alt="image" src="https://github.com/user-attachments/assets/d8c54f8c-fdb2-49fd-b4ce-5b72f4bf1507" />
+
 
 # Customers
 <img width="1311" height="739" alt="Customers" src="https://github.com/user-attachments/assets/5bd69c2e-9b57-4e73-82ea-9385467c0c27" />
